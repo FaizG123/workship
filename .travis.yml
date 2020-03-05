@@ -28,5 +28,5 @@ deploy:
   api_key: $faiz
   file: ".pio/build/nodemcuv2/firmware.bin"
   on:
-    repo: FaizG123/token
+    repo: FaizG123/faiz
     all_branches: true
